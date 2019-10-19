@@ -19,3 +19,8 @@ callApply.js
 objetoConstante.js
 getSet.js
 funcoesObjeto.js
+heranca.js
+evitarModificacoes.js
+objetoEJSON.js
+herancaEstruturada.js
+funcoesArray.js
